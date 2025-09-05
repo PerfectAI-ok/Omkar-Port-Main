@@ -44,7 +44,7 @@ const projects = [
     title: "Surplus Shift",
     description: "Surplus Shift a food platform connecting surplus donors with NGOs to reduce waste and combat hunger",
     image: "/surplus.png",
-    technologies: ["Next.js", "Tailwind", "Node.js", "Express.js", "MongoDB","TensorFlow"],
+    technologies: ["Next.js", "Tailwind", "SpringBoot", "MongoDB","TensorFlow"],
     liveUrl: "https://github.com/OmkarKathile007/Techathon_Main",
     githubUrl: "https://github.com/OmkarKathile007/Techathon_Main",
     featured: true
@@ -252,4 +252,5 @@ export const ProjectShowcase = () => {
       </div>
     </section>
   );
+
 };
